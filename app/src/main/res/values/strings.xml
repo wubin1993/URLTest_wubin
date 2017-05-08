@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">URLTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">http://www.crazyit.org/attachments/month_1008/20100812_7763e970f822325bfb019ELQVym8tW3A.png</string>>
+
+</resources>
